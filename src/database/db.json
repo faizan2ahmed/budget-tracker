@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+          "id":1,
+          "firstName": "Syed Faizan",
+          "lastName": "Ahmed",
+          "email": "faizan@gmail.com",
+          "password": "admin123",
+          "budgetLimit": 10000
+        }
+    ]
+}
