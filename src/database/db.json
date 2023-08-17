@@ -1,12 +1,84 @@
 {
     "users": [
-        {
-          "id":1,
-          "firstName": "Syed Faizan",
-          "lastName": "Ahmed",
-          "email": "faizan@gmail.com",
-          "password": "admin123",
-          "budgetLimit": 10000
-        }
+      {
+        "id": 1,
+        "firstName": "Syed Faizan",
+        "lastName": "Ahmed",
+        "email": "faizan@gmail.com",
+        "password": "admin123",
+        "budgetLimit": 10000
+      },
+      {
+        "id": 2,
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily@example.com",
+        "password": "p@ssw0rd",
+        "budgetLimit": 15000
+      },
+      {
+        "id": 3,
+        "firstName": "Michael",
+        "lastName": "Smith",
+        "email": "michael@example.com",
+        "password": "securepass",
+        "budgetLimit": 12000
+      },
+      {
+        "id": 4,
+        "firstName": "Jennifer",
+        "lastName": "Davis",
+        "email": "jennifer@example.com",
+        "password": "jennifer123",
+        "budgetLimit": 8000
+      },
+      {
+        "id": 5,
+        "firstName": "Alex",
+        "lastName": "Brown",
+        "email": "alex@example.com",
+        "password": "brownpass",
+        "budgetLimit": 20000
+      },
+      {
+        "id": 6,
+        "firstName": "Amanda",
+        "lastName": "Wilson",
+        "email": "amanda@example.com",
+        "password": "amanda456",
+        "budgetLimit": 18000
+      },
+      {
+        "id": 7,
+        "firstName": "Daniel",
+        "lastName": "Miller",
+        "email": "daniel@example.com",
+        "password": "danielpass",
+        "budgetLimit": 9000
+      },
+      {
+        "id": 8,
+        "firstName": "Jessica",
+        "lastName": "Martinez",
+        "email": "jessica@example.com",
+        "password": "martinez12",
+        "budgetLimit": 11000
+      },
+      {
+        "id": 9,
+        "firstName": "William",
+        "lastName": "Jones",
+        "email": "william@example.com",
+        "password": "william789",
+        "budgetLimit": 13000
+      },
+      {
+        "id": 10,
+        "firstName": "Olivia",
+        "lastName": "Taylor",
+        "email": "olivia@example.com",
+        "password": "olivia567",
+        "budgetLimit": 17000
+      }
     ]
 }
